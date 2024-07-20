@@ -1,6 +1,6 @@
-AtliQ _ Hospitality_ Analytics_Power BI Dashboard
 
-Domain: Hospitality Function: Revenue
+AtliQ _Hospitality_Analytics_Power BI Dashboard
+- Domain: Hospitality |Function: Revenue
 
 Problem Statement:- 
 - AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. 
@@ -11,4 +11,8 @@ Problem Statement:-
 
 
 
-Task :- To Provide Insights to the Revenue Team in the Hospitality Domain
+Assigned Task :- 
+ - Being a data analyst provided with sample data and a mock-up dashboard to work on the following listed task as below & thus finally Provide Insights to the Revenue Team in the Hospitality Domain.
+- Create the metrics according to the metric list.
+- Create a dashboard according to the mock-up provided by stakeholders.
+- Create relevant insights that are not provided in the metric list/mock-up dashboard.
