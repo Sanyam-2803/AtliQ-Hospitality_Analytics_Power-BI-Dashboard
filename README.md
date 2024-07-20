@@ -1,1 +1,1 @@
-# AtliQ _ Hospitality_ Analytics_Power BI Dashboard
+AtliQ _ Hospitality_ Analytics_Power BI Dashboard
