@@ -1,12 +1,13 @@
-![1 Screenshot 2024-07-20 171819](https://github.com/user-attachments/assets/2328c2f3-7c44-4966-915e-77cad365a8d5)
-![2](https://github.com/user-attachments/assets/ef43bbff-1e52-415d-af81-9e24749c9bb7)
-![3 Screenshot 2024-07-20 172412](https://github.com/user-attachments/assets/121f3252-3c6b-473b-80bd-8fe6672db869)
-![123456678](https://github.com/user-attachments/assets/0c81a55d-e15f-4df2-94c1-f5b718f8b54f)
-- Being part of this challenge conducted by Codebasics Team in the month of September, I have worked extensively End to End on this project.
+![4](https://github.com/user-attachments/assets/4087012d-fd40-4ecc-a492-f10c0b71f23b)
+![5](https://github.com/user-attachments/assets/32bbe4e2-a129-41f3-b970-a45544eef827)
+![4  (2)](https://github.com/user-attachments/assets/5c9f2f78-10fa-49e7-a604-397d24c7b7cd)
+![2  (2)](https://github.com/user-attachments/assets/777a8d84-c56f-4092-a807-ce97d2fc0e82)
+![1 mock up dashboard_atliq grands](https://github.com/user-attachments/assets/22e6a942-ba85-4055-9280-61a12c058736)
 
-AtliQ _Hospitality_Analytics_Power BI Dashboard
 
+  AtliQ _Hospitality_Analytics_Power BI Dashboard
 - Domain: Hospitality | Function: Revenue
+- Being part of this challenge conducted by Codebasics Team in the month of September, I have worked End to End in this project.
 
 Problem Statement:- 
 - AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. 
