@@ -1,6 +1,8 @@
+- Being part of this challenge conducted by Codebasics Team in the month of September, I have worked extensively End to End on this project.
 
 AtliQ _Hospitality_Analytics_Power BI Dashboard
-- Domain: Hospitality |Function: Revenue
+
+- Domain: Hospitality | Function: Revenue
 
 Problem Statement:- 
 - AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. 
