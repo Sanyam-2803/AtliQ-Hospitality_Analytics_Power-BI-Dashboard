@@ -1,3 +1,7 @@
+![1 Screenshot 2024-07-20 171819](https://github.com/user-attachments/assets/2328c2f3-7c44-4966-915e-77cad365a8d5)
+![2](https://github.com/user-attachments/assets/ef43bbff-1e52-415d-af81-9e24749c9bb7)
+![3 Screenshot 2024-07-20 172412](https://github.com/user-attachments/assets/121f3252-3c6b-473b-80bd-8fe6672db869)
+![123456678](https://github.com/user-attachments/assets/0c81a55d-e15f-4df2-94c1-f5b718f8b54f)
 - Being part of this challenge conducted by Codebasics Team in the month of September, I have worked extensively End to End on this project.
 
 AtliQ _Hospitality_Analytics_Power BI Dashboard
