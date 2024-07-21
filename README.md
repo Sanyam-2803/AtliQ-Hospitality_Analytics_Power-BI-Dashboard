@@ -23,8 +23,8 @@ Assigned Task :-
 
 📊𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 :
 
-🔺 Mumbai city had maximum % share of Total revenue contribution around 40% followed by Bangalore, Hyderabad whereas Delhi contributed the lowest for all the months.
-🔺 Interestingly, Key Metrics such as RevPAR(Revenue Per Available Room) had highest contribution from hotels based in Mumbai city followed by Delhi, Bangalore & Hyderabad while hotels based in Mumbai city has highest ADR (Avg Daily Rate ) followed by Bangalore, Delhi & Hyderabad.
+🔺-  Mumbai city had maximum % share of Total revenue contribution around 40% followed by Bangalore, Hyderabad whereas Delhi contributed the lowest for all the months.
+🔺-  Interestingly, Key Metrics such as RevPAR(Revenue Per Available Room) had highest contribution from hotels based in Mumbai city followed by Delhi, Bangalore & Hyderabad while hotels based in Mumbai city has highest ADR (Avg Daily Rate ) followed by Bangalore, Delhi & Hyderabad.
 🔺 Delhi remained the most preferred choice with avg rating of 3.8 across all cities followed by Hyderabad, Mumbai & Bangalore.
 🔺 Also Delhi witnessed highest Occupancy Rate of 61% whereas Bangalore lowest. 
 🔺Weekend saw highest occupancy rate compared to weekdays.
