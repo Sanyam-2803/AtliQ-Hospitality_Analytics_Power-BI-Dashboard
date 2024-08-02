@@ -5,7 +5,7 @@
 
 
 
-  AtliQ _Hospitality_Analytics_Power BI Dashboard
+  AtliQ _Hospitality Analytics_Power BI Dashboard
 - Domain: Hospitality | Function: Revenue
 - Being part of this challenge conducted by Codebasics Team in the month of September, I have worked End to End in this project.
 
