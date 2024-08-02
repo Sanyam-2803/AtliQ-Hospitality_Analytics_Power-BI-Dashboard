@@ -9,19 +9,19 @@
 - Domain: Hospitality | Function: Revenue
 - Being part of this challenge conducted by Codebasics Team in the month of September, I have worked End to End in this project.
 
-𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭 
+📝 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭 
 - AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. 
 - Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category.
 - As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 - Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
-𝗔𝘀𝘀𝗶𝗴𝗻𝗲𝗱 𝗧𝗮𝘀𝗸 
+📋 𝗧𝗮𝘀𝗸 
  - Being a data analyst provided with sample data and a mock-up dashboard to work on the following listed task as below & thus finally Provide Insights to the Revenue Team in the Hospitality Domain.
 - Create the metrics according to the metric list.
 - Create a dashboard according to the mock-up provided by stakeholders.
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-📊𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 :
+📊 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬
 
 - Mumbai city had maximum % share of Total revenue contribution around 40% followed by Bangalore, Hyderabad whereas Delhi contributed the lowest for all the months.
 - Interestingly, Key Metrics such as RevPAR(Revenue Per Available Room) had highest contribution from hotels based in Mumbai city followed by Delhi, Bangalore & Hyderabad while hotels based in Mumbai city has highest ADR (Avg Daily Rate ) followed by Bangalore, Delhi & Hyderabad.
